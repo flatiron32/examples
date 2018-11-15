@@ -7,4 +7,4 @@ The goal is to keep this matrix full and with nearly equal width and height. The
 | Problem                               | Python-Twisted   | Golang           | Node.js                  |
 | ------------------------------------- | ---------------- | ---------------- | ------------------------ |
 | [Serving Static Content](ssc.md)      | [ssc-pt](ssc-pt) | [ssc-go](ssc-go) | [ssc-nodejs](ssc-nodejs) |
-| [Generating Page Dynamically](gdp.md) | [gdp-pt](gdp-pt) | [gdp-go](gdp-go) |
+| [Generating Page Dynamically](gdp.md) | [gdp-pt](gdp-pt) | [gdp-go](gdp-go) | [gdp-nodejs](gdp-nodejs) |
