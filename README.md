@@ -4,7 +4,7 @@ This project is a collection of how to do X with Y where X is solving a problem 
 
 The goal is to keep this matrix full and with nearly equal width and height. There is an infinite number of problems and at the rate of JS frameworks created the language/framework axis approaches infinite.
 
-| Problem                               | Python-Twisted   | Golang           | Node.js                  |
-| ------------------------------------- | ---------------- | ---------------- | ------------------------ |
-| [Serving Static Content](ssc.md)      | [ssc-pt](ssc-pt) | [ssc-go](ssc-go) | [ssc-nodejs](ssc-nodejs) |
-| [Generating Page Dynamically](gdp.md) | [gdp-pt](gdp-pt) | [gdp-go](gdp-go) | [gdp-nodejs](gdp-nodejs) |
+| Problem                               | [Python-Twisted](pt.md) | [Golang](golang.md) | [Node.js](nodejs.md)     |
+| ------------------------------------- | ----------------------- | ------------------- | ------------------------ |
+| [Serving Static Content](ssc.md)      | [ssc-pt](ssc-pt)        | [ssc-go](ssc-go)    | [ssc-nodejs](ssc-nodejs) |
+| [Generating Page Dynamically](gdp.md) | [gdp-pt](gdp-pt)        | [gdp-go](gdp-go)    | [gdp-nodejs](gdp-nodejs) |
